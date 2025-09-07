@@ -38,5 +38,6 @@
   <catalogs>Catalog.Заметки</catalogs>
   <catalogs>Catalog.Модели</catalogs>
   <documents>Document.Документ1</documents>
+  <documents>Document.Документ2</documents>
   <enums>Enum.ВидыЗаметок</enums>
 </mdclass:Configuration>
