@@ -36,4 +36,5 @@
   </languages>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.Заметки</catalogs>
+  <enums>Enum.ВидыЗаметок</enums>
 </mdclass:Configuration>
