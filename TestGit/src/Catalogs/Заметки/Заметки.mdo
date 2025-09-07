@@ -46,4 +46,19 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="6c6893e6-331c-446c-ba78-3e6cc4b89adb">
+    <name>ВидЗаметки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Вид заметки</value>
+    </synonym>
+    <type>
+      <types>EnumRef.ВидыЗаметок</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Catalog>

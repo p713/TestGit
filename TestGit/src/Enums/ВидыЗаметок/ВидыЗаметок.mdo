@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c8a46e44-e205-46cb-a349-03ca260aa4a6">
+  <producedTypes>
+    <refType typeId="95ed9761-d396-43a3-880c-de3a5b1bbea4" valueTypeId="a0afa6b2-7d8d-44f4-b3a7-aa53a281c30f"/>
+    <listType typeId="75ed42d7-dc73-471b-9700-4bf0aba9bbdd" valueTypeId="6c5e9574-6eba-4602-9d96-3e7ef24c12bc"/>
+    <managerType typeId="aa43ff32-b6c3-4638-b6ae-f93eb997117d" valueTypeId="e10c42ff-7396-49e7-86cf-080d7c27350a"/>
+  </producedTypes>
+  <name>ВидыЗаметок</name>
+  <synonym>
+    <key>ru</key>
+    <value>Виды заметок</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="de9c004b-d967-4463-a87a-54abc000cf04">
+    <name>Обычная</name>
+    <synonym>
+      <key>ru</key>
+      <value>Обычная</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="3c58fc4d-d37c-453b-b79d-c9c1f2d21028">
+    <name>Задача</name>
+    <synonym>
+      <key>ru</key>
+      <value>Задача</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
