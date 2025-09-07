@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="d57f6b97-417d-48c1-a643-1fde7da71aa5">
+  <producedTypes>
+    <objectType typeId="568b1d72-a685-4095-85cd-2a5c816f7aa9" valueTypeId="ec82cf3f-b95f-4d9d-92ce-6e81b6c74c94"/>
+    <refType typeId="6440665d-5541-43df-b817-7bc89ae540ac" valueTypeId="de915484-c6e5-4ce3-a720-1446c20cdc16"/>
+    <selectionType typeId="2adf7d48-f0ae-4efd-878a-4baab68e55a9" valueTypeId="9eea4629-bbeb-4bcb-afa7-74ef392aba46"/>
+    <listType typeId="2955c046-a4d8-487d-ad16-5834dbb49aa3" valueTypeId="1ff0cced-b478-4793-83c1-3eb62160b2c1"/>
+    <managerType typeId="47f55ad2-eeb3-4cf9-961e-474079fb2728" valueTypeId="b4e2aa58-b4c0-4843-af8c-5e2c7344acd7"/>
+  </producedTypes>
+  <name>Заметки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заметки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Заметки.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Заметки.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="f419774e-fb0f-42b9-a36e-8a3ecad280f7">
+    <name>Содержание</name>
+    <synonym>
+      <key>ru</key>
+      <value>Содержание</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>
