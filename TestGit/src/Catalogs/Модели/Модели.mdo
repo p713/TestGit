@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7a9fe703-b39e-482a-8932-39c2779035bf">
+  <producedTypes>
+    <objectType typeId="c63e9b41-8285-4b68-9e5d-4860af6a229d" valueTypeId="e989d676-dcc3-4c39-82d2-17cf1f007882"/>
+    <refType typeId="26d0c18c-3ced-4ea6-9bc7-d124c7c4a65f" valueTypeId="cca7d881-9e78-47e7-aaa8-e6ebf54a867d"/>
+    <selectionType typeId="2b4caf21-a3fc-4393-a094-5ed5bc819699" valueTypeId="fd3a2b23-c6ab-4511-8306-7e5935fb3786"/>
+    <listType typeId="b5db2683-f805-4a8b-8932-e07f30580499" valueTypeId="b8487cfa-2c86-4475-a04d-760bfbc4470e"/>
+    <managerType typeId="f1abb431-a4f6-42c0-9544-e9b37b98a393" valueTypeId="ec5d0029-a106-4140-93a4-e91f67692bc5"/>
+  </producedTypes>
+  <name>Модели</name>
+  <synonym>
+    <key>ru</key>
+    <value>Модели</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Модели.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Модели.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

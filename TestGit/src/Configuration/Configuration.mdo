@@ -36,4 +36,5 @@
   </languages>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.Заметки</catalogs>
+  <catalogs>Catalog.Модели</catalogs>
 </mdclass:Configuration>
