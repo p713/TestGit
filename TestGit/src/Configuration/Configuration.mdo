@@ -35,6 +35,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <commonModules>CommonModule.РаботаСЗаметками</commonModules>
+  <commonModules>CommonModule.ОбщегоНазначения</commonModules>
   <catalogs>Catalog.Пользователи</catalogs>
   <catalogs>Catalog.Заметки</catalogs>
   <catalogs>Catalog.Модели</catalogs>
