@@ -9,6 +9,7 @@
 
 //@skip-check export-procedure-missing-comment
 Процедура ИнициализироватьMermaid() Экспорт
+	// Сделал feature1_5
 	Возврат;
 КонецПроцедуры
 
